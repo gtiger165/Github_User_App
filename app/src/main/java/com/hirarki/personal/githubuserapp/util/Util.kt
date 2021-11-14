@@ -13,3 +13,7 @@ fun getJsonFromAssets(context: Context, fileName: String): String?{
     }
     return jsonString
 }
+
+fun getImage(context: Context, imageName: String): Int {
+    return context.resources.getIdentifier(imageName, "drawable", context.packageName)
+}

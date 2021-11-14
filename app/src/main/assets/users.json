@@ -1,68 +1,111 @@
 [
   {
     "id": 1,
-    "username": "Gfragon",
-    "name": "Agon",
-    "avatar": "https://lh3.googleusercontent.com/proxy/kMoLPY-7XseBhmKT0xX-lQPQPQH79MMogWjomV3V1sKiN3XM8-8UCph7p-t3VVD4ThfloYW4jtC4WfTIPS1hcFb0tug9eu6CxSrcm81oaToRNNUpt8fpd6C-okHN1fYT_ZQSvvV_NGDKXyMI-g"
+    "username": "JakeWharton",
+    "name": "Jake Wharton",
+    "avatar": "user1",
+    "company": "Google, Inc.",
+    "location": "Pittsburgh, PA, USA",
+    "repository": 102,
+    "follower": 56995,
+    "following": 12
   },
   {
     "id": 2,
-    "username": "Amir123",
-    "name": "Rima",
-    "avatar": "https://media.istockphoto.com/vectors/profile-icon-male-avatar-portrait-casual-person-vector-id530829213?k=20&m=530829213&s=612x612&w=0&h=EvvEYltc4Rc5dbVpXTj1lYlDDMUVju_OM3y8cTYgVSc="
+    "username": "amitshekhariitbhu",
+    "name": "AMIT SHEKHAR",
+    "avatar": "user2",
+    "company": "@MindOrksOpenSource",
+    "location": "New Delhi, India",
+    "repository": 37,
+    "follower": 5153,
+    "following": 2
   },
   {
     "id": 3,
-    "username": "Pucu097",
-    "name": "Ucup",
-    "avatar": "https://lh3.googleusercontent.com/proxy/kMoLPY-7XseBhmKT0xX-lQPQPQH79MMogWjomV3V1sKiN3XM8-8UCph7p-t3VVD4ThfloYW4jtC4WfTIPS1hcFb0tug9eu6CxSrcm81oaToRNNUpt8fpd6C-okHN1fYT_ZQSvvV_NGDKXyMI-g"
+    "username": "romainguy",
+    "name": "Romain Guy",
+    "avatar": "user3",
+    "company": "Google",
+    "location": "California",
+    "repository": 9,
+    "follower": 7972,
+    "following": 0
   },
   {
-    "id": 4,
-    "username": "ram534",
-    "name": "Amar",
-    "avatar": "https://media.istockphoto.com/vectors/profile-icon-male-avatar-portrait-casual-person-vector-id530829213?k=20&m=530829213&s=612x612&w=0&h=EvvEYltc4Rc5dbVpXTj1lYlDDMUVju_OM3y8cTYgVSc="
+    "username": "chrisbanes",
+    "name": "Chris Banes",
+    "avatar": "user4",
+    "company": "@google working on @android",
+    "location": "Sydney, Australia",
+    "repository": 30,
+    "follower": 14725,
+    "following": 1
   },
   {
     "id": 5,
-    "username": "idref980",
-    "name": "Ferdian",
-    "avatar": "https://lh3.googleusercontent.com/proxy/kMoLPY-7XseBhmKT0xX-lQPQPQH79MMogWjomV3V1sKiN3XM8-8UCph7p-t3VVD4ThfloYW4jtC4WfTIPS1hcFb0tug9eu6CxSrcm81oaToRNNUpt8fpd6C-okHN1fYT_ZQSvvV_NGDKXyMI-g"
+    "username": "tipsy",
+    "name": "David",
+    "avatar": "user5",
+    "company": "Working Group Two",
+    "location": "Trondheim, Norway",
+    "repository": 56,
+    "follower": 788,
+    "following": 0
   },
   {
     "id": 6,
-    "username": "agem@63",
-    "name": "Mega",
-    "avatar": "https://media.istockphoto.com/vectors/profile-icon-male-avatar-portrait-casual-person-vector-id530829213?k=20&m=530829213&s=612x612&w=0&h=EvvEYltc4Rc5dbVpXTj1lYlDDMUVju_OM3y8cTYgVSc="
+    "username": "ravi8x",
+    "name": "Ravi Tamada",
+    "avatar": "user6",
+    "company": "AndroidHive | Droid5",
+    "location": "India",
+    "repository": 28,
+    "follower": 18628,
+    "following": 3
   },
   {
     "id": 7,
-    "username": "ida1@8",
-    "name": "Adi",
-    "avatar": "https://lh3.googleusercontent.com/proxy/kMoLPY-7XseBhmKT0xX-lQPQPQH79MMogWjomV3V1sKiN3XM8-8UCph7p-t3VVD4ThfloYW4jtC4WfTIPS1hcFb0tug9eu6CxSrcm81oaToRNNUpt8fpd6C-okHN1fYT_ZQSvvV_NGDKXyMI-g"
+    "username": "jasoet",
+    "name": "Deny Prasetyo",
+    "avatar": "user7",
+    "company": "@gojek-engineering",
+    "location": "Kotagede, Yogyakarta, Indonesia",
+    "repository": 44,
+    "follower": 277,
+    "following": 39
   },
   {
     "id": 8,
-    "username": "sam0888",
-    "name": "Samsul",
-    "avatar": "https://media.istockphoto.com/vectors/profile-icon-male-avatar-portrait-casual-person-vector-id530829213?k=20&m=530829213&s=612x612&w=0&h=EvvEYltc4Rc5dbVpXTj1lYlDDMUVju_OM3y8cTYgVSc="
+    "username": "budioktaviyan",
+    "name": "Budi Oktaviyan",
+    "avatar": "user8",
+    "company": "@KotlinID",
+    "location": "Jakarta, Indonesia",
+    "repository": 110,
+    "follower": 178,
+    "following": 23
   },
   {
     "id": 9,
-    "username": "pro_gaming901",
-    "name": "Budi",
-    "avatar": "https://lh3.googleusercontent.com/proxy/kMoLPY-7XseBhmKT0xX-lQPQPQH79MMogWjomV3V1sKiN3XM8-8UCph7p-t3VVD4ThfloYW4jtC4WfTIPS1hcFb0tug9eu6CxSrcm81oaToRNNUpt8fpd6C-okHN1fYT_ZQSvvV_NGDKXyMI-g"
+    "username": "hendisantika",
+    "name": "Hendi Santika",
+    "avatar": "user9",
+    "company": "@JVMDeveloperID @KotlinID @IDDevOps",
+    "location": "Bojongsoang - Bandung Jawa Barat",
+    "repository": 1064,
+    "follower": 428,
+    "following": 61
   },
   {
     "id": 10,
-    "username": "noob_gramer759",
-    "name": "Silvia",
-    "avatar": "https://media.istockphoto.com/vectors/profile-icon-male-avatar-portrait-casual-person-vector-id530829213?k=20&m=530829213&s=612x612&w=0&h=EvvEYltc4Rc5dbVpXTj1lYlDDMUVju_OM3y8cTYgVSc="
-  },
-  {
-    "id": 11,
-    "username": "counter8@1",
-    "name": "John",
-    "avatar": "https://lh3.googleusercontent.com/proxy/kMoLPY-7XseBhmKT0xX-lQPQPQH79MMogWjomV3V1sKiN3XM8-8UCph7p-t3VVD4ThfloYW4jtC4WfTIPS1hcFb0tug9eu6CxSrcm81oaToRNNUpt8fpd6C-okHN1fYT_ZQSvvV_NGDKXyMI-g"
+    "username": "sidiqpermana",
+    "name": "Sidiq Permana",
+    "avatar": "user10",
+    "company": "Nusantara Beta Studio",
+    "location": "Jakarta Indonesia",
+    "repository": 65,
+    "follower": 465,
+    "following": 10
   }
 ]

@@ -9,6 +9,7 @@ import com.bumptech.glide.request.RequestOptions
 import com.hirarki.personal.githubuserapp.R
 import com.hirarki.personal.githubuserapp.databinding.ItemUserBinding
 import com.hirarki.personal.githubuserapp.user.model.User
+import com.hirarki.personal.githubuserapp.util.getImage
 
 class UserAdapter(private val listener: OnUserAdapterListener) : RecyclerView.Adapter<UserViewHolder>() {
     private val list: ArrayList<User> = ArrayList()
@@ -43,7 +44,7 @@ class UserViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
 
     fun onBind(data: User, listener: OnUserAdapterListener) {
         with(bindItem) {
-            Glide.with(root.context).load(data.avatar).apply(
+            Glide.with(root.context).load(getImage(root.context, data.avatar)).apply(
                 RequestOptions()
                     .placeholder(R.drawable.ic_baseline_account_circle_24)
                     .error(R.drawable.ic_baseline_account_circle_24)
